@@ -1,0 +1,4 @@
+# Satir sonlari degismesin: ozet dosyasi bayt bayt ayni kalmali.
+MANIFEST.sha256 -text
+*.png binary
+*.webp binary
