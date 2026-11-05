@@ -7,7 +7,7 @@ kalmasın.
 
 Ayrıntılı atıf ve lisans bilgisi: [`NOTICE.md`](NOTICE.md). Lisans dosyaları:
 [`LICENSE`](LICENSE) (Miftah-Fentaw, MIT) ve [`LICENSE-quranhub`](LICENSE-quranhub)
-(Unlicense — README'de GPL-3.0 yazıyor, çelişki NOTICE'ta).
+(Unlicense — kamu malı; kaynak sahibi kapalı kaynak/ticari kullanıma izin verdi).
 
 ## İçerik
 

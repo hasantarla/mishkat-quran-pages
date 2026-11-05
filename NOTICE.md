@@ -7,7 +7,7 @@ Bu depo, Mişkat uygulamasının mushaf sayfası **aynayı**dır. Sayfalar burad
 | --- | --- | --- | --- |
 | `png/` | 604 | Miftah-Fentaw/Quran-Images | MIT |
 | `webp/` | 605 | Miftah-Fentaw/Quran-Images | MIT |
-| `wasat/` | 604 | QuranHub/quran-pages-images | Unlicense (README'de GPL-3.0 yazıyor — çelişki, bkz. NOTICE) |
+| `wasat/` | 604 | QuranHub/quran-pages-images | Unlicense (kamu malı) — kapalı kaynak/ticari kullanım serbest |
 
 ## Kaynaklar
 
@@ -18,10 +18,11 @@ Bu depo, Mişkat uygulamasının mushaf sayfası **aynayı**dır. Sayfalar burad
   [GovarJabbar/Quran-PNG](https://github.com/GovarJabbar/Quran-PNG) — quran.com'un
   Kral Fahd (KFQC) fontlarından üretilmiştir. O depoda lisans dosyası yok; MIT
   kapsamı Miftah-Fentaw derlemesine aittir.
-- `wasat/` sayfaları: QuranHub deposunda **lisans çelişkisi** var — `LICENSE`
-  dosyası Unlicense (kamu malı), README ise GPL-3.0 diyor. Çelişki netleşene kadar
-  bu set **GPL-3.0 kabul edilerek** değerlendirilmelidir (daha kısıtlayıcı varsayım).
-  Soru: https://github.com/QuranHub/quran-pages-images/issues/2
+- `wasat/` sayfaları: kaynak depo [QuranHub/quran-pages-images](https://github.com/QuranHub/quran-pages-images)
+  lisansı **Unlicense** (kamu malı). README eskiden GPL-3.0 diyordu; kaynak sahibi
+  `LICENSE` dosyasının esas olduğunu ve kapalı kaynak uygulamada copyleft
+  yükümlülüğü olmadığını doğruladı:
+  https://github.com/QuranHub/quran-pages-images/issues/2
 - Sayfa numaralandırması: standart 604 sayfalık Madani mushaf.
 
 ## Bütünlük
